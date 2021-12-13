@@ -5,6 +5,10 @@
 
 ![天若 OCR 文字识别开源版](http://img.luooqi.com/FqgLxwq7qu7_OLBr5HYO_bi7Rpbw)
 
+##最新更新
+###集合了最新的两个版本分别是来自https://gitee.com/ZZK-1989/tianruoocr 的网友在线版
+和来自https://gitee.com/wanglifree/tianruoocr-cl的本地版
+
 ## 版本更新
 ### V5.0.0
 新版本的主要特性：
