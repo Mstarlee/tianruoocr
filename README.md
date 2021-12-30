@@ -1,12 +1,12 @@
 ## 天若 OCR 文字识别开源版
-> 该项目已停止维护，欢迎使用新版跨平台 OCR 工具，[树洞 OCR 文字识别](https://github.com/AnyListen/tools-ocr)：https://github.com/AnyListen/tools-ocr
+
 
 天若 OCR 文字识别开源版是基于 @天若幽心  [开源的代码](https://github.com/tianruoyouxin/tianruoocr_last) 进行完善制作而成。
 
 
 ##最新更新
 ###集合了最新的两个版本分别是来自https://gitee.com/ZZK-1989/tianruoocr 的网友在线版
-和来自https://gitee.com/wanglifree/tianruoocr-cl的本地版
+和来自https://gitee.com/wanglifree/tianruoocr-cl 的本地版
 
 ## 版本更新
 ### V5.0.0
